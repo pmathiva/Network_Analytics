@@ -11,4 +11,5 @@ What additional patterns can you find in the data, which might otherwise be too 
 * pubmed_case2.py
  The script parses the pubmed files to find the major research locations in the world related to sleep disordered breathing and plots them   on a map.
  It finds the major research groups and the people working on them in each of the groups.
+ Gephi is used for network construction
  
