@@ -7,3 +7,8 @@ After reviewing your preliminary analysis regarding articles associated with the
 This case leverages Network Analytics to highlight important link information surrounding SDB research, such as: “who works with whom”, “who cites whom”, “who does research with whom”.
  
 What additional patterns can you find in the data, which might otherwise be too complex to discover?
+
+* pubmed_case2.py
+ The script parses the pubmed files to find the major research locations in the world related to sleep disordered breathing and plots them   on a map.
+ It finds the major research groups and the people working on them in each of the groups.
+ 
